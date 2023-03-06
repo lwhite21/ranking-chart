@@ -1,6 +1,13 @@
 .chart-overall-container {
+
+}
+
+.bar-container {
     display: flex;
-    justify-content: center;
-    height: 100vh;
-    width: 100vw;
+    flex-direction: row;
+    width: 90vw;
+    height: 7.5vh;
+    background-color: black;
+    color: white;
+    margin-bottom: 2.5vh;
 }

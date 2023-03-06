@@ -1,9 +1,10 @@
 import React from 'react';
 import { Chart } from './Chart/Chart';
+import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className='master-container'>
       <Chart />
     </div>
   );
